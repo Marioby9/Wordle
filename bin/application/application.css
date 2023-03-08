@@ -1,0 +1,35 @@
+/* */
+#mainPane {
+	-fx-background-color: linear-gradient(to bottom, #89D350, #3B641D);
+}
+
+#botonesLogin {
+	-fx-background-color: white;
+	-fx-text-fill: black;
+	-fx-border-color: black;
+	-fx-border-width: 3px;
+	-fx-border-radius: 8px;
+	-fx-background-radius: 10px;
+}
+
+/* Efecto hover para los botones */
+#botonesLogin:hover {
+	-fx-background-color: black;
+	-fx-text-fill: white;
+	-fx-border-color: white;
+	
+}
+
+
+#back{
+	-fx-background-color: white;
+	-fx-border-color: black;
+	-fx-border-width: 4px;
+	-fx-border-radius: 50px;
+	-fx-background-radius: 50px;
+	
+}
+#back:hover{
+	-fx-background-color: A41D1D;
+	
+}
