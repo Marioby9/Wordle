@@ -42,7 +42,7 @@
                   </Label>
                </children>
             </Pane>
-            <Pane fx:id="registerPane" layoutY="246.0" prefHeight="351.0" prefWidth="550.0">
+            <Pane fx:id="registerPane" layoutY="246.0" prefHeight="351.0" prefWidth="550.0" visible="false">
                <children>
                   <Pane layoutX="139.0" layoutY="33.0" prefHeight="35.0" prefWidth="272.0" style="-fx-background-color: white; -fx-background-radius: 20px; -fx-border-radius: 20px; -fx-border-color: black; -fx-border-width: 2px;">
                      <children>
